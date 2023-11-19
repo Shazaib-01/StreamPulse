@@ -4,10 +4,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till the "Creating a new application" step, before proceeding.
 
-## Features
-
-Video streaming and adding video play features (like pause, play, forward, and backward)
-
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -62,6 +58,16 @@ Now that you have successfully run the app, let's modify it.
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
+
+## Features
+Video streaming and adding video play features (like pause, play, forward, and backward)
+
+## Screenshots
+![1](https://github.com/Shazaib-01/StreamPulse/assets/107038268/54783a13-96ad-4b8b-96dd-e6abe6e5b457)
+![2](https://github.com/Shazaib-01/StreamPulse/assets/107038268/3f9f715c-6679-47c8-8da8-5697543b8ba4)
+![3](https://github.com/Shazaib-01/StreamPulse/assets/107038268/55a72239-5cde-418a-9d82-420f50c6cfc8)
+![4](https://github.com/Shazaib-01/StreamPulse/assets/107038268/a1381d50-ccfb-4d3d-b5a1-5b3a4984c614)
+![5](https://github.com/Shazaib-01/StreamPulse/assets/107038268/cca0f669-1f57-4612-ad70-347fba392293)
 
 ### Now what?
 
